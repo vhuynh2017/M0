@@ -1,4 +1,4 @@
 # M0
 
 CEN 4010: PRINCIPLES OF SOFTWARE ENINEERING <br>
-Group 4: cen4010sum18_g04
+Group 4: cen4010sum18_g04.
